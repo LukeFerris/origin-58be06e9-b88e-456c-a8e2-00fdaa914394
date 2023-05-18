@@ -1,0 +1,12 @@
+version = 0.1
+
+[origin-58be06e9-b88e-456c-a8e2-00fdaa914394]
+[origin-58be06e9-b88e-456c-a8e2-00fdaa914394.deploy]
+[origin-58be06e9-b88e-456c-a8e2-00fdaa914394.deploy.parameters]
+aws_account_number = "360520317360"
+stack_name = "origin-58be06e9-b88e-456c-a8e2-00fdaa914394"
+s3_prefix = "origin-58be06e9-b88e-456c-a8e2-00fdaa914394"
+region = "eu-central-1"
+confirm_changeset = false
+capabilities = "CAPABILITY_IAM CAPABILITY_AUTO_EXPAND CAPABILITY_NAMED_IAM"
+disable_rollback = false
